@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there I am Kesavan 👋
 
-<!--
-**PradeepPKR/PradeepPKR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ... SourceCode Computers :desktop_computer:
+- 🌱 I’m currently learning ... Python
+- 👯 I’m looking to collaborate on ...Python
+- 🤔 I’m looking for help with ...Android developement 
+- 💬 Ask me about ... Anything
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... PhotoGhrapher
+-  <img src="https://github-readme-stats.vercel.app/api?username=PradeepPKR&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-Here are some ideas to get you started:
+ ### :grinning: Thank You For Visiting my Profile.
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![tenor](https://user-images.githubusercontent.com/73026586/116538681-7b177e80-a905-11eb-8730-340be2d589d0.gif)
+
