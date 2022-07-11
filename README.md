@@ -1,6 +1,6 @@
 ### Hi there I am PradeepKumar 👋
 
-- 🔭 I’m currently working on ... SourceCode Computers :desktop_computer:
+- 🔭 I’m currently working on ... SourceCoders technology :desktop_computer:
 - 🌱 I’m currently learning ... Python
 - 👯 I’m looking to collaborate on ...Python
 - 🤔 I’m looking for help with ...Android developement 
