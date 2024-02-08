@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on ... SourceCoders technology :desktop_computer:
 - 🌱 I’m currently learning ... Python
-- 👯 I’m looking to collaborate on ...Python
-- 🤔 I’m looking for help with ...Android developement 
+- 👯 I’m looking to collaborate on ...FLUTTER 
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... PhotoGhrapher
